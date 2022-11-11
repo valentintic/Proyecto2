@@ -1,0 +1,42 @@
+*{ 
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+}
+
+.caja {
+    width: 50%;
+    padding: 2em;
+    border: 1px solid black;;
+    height: 300px;
+    float: left;
+    background-color: turquoise;
+}
+.caja2 {
+    width: 48%;
+    height: 300px;
+    margin: 1%;
+    padding: 2em;
+    border: 1px solid black;;
+    float: left;
+    background-color: aqua;
+}
+
+
+nav {
+    width: 20%;
+    background-color: rgb(144, 230, 63);
+    height: 400px;
+    float: left;
+    text-align: center;
+
+}
+
+main {
+    text-align: center;
+    margin-left: 2%;
+    background-color: blueviolet;
+    width: 78%;
+    height: 400px;
+    float: left;
+}

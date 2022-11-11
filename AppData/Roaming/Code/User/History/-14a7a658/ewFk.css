@@ -1,0 +1,17 @@
+h1 {
+    font-family:verdana;
+    color:rgb(84, 93, 212);
+}
+
+ol, p {
+    font-family:verdana;	
+}
+
+.body {
+    background-image: la;
+}
+.titulo {
+    text-align: center;
+    color: red;
+    background-color: brown;
+}

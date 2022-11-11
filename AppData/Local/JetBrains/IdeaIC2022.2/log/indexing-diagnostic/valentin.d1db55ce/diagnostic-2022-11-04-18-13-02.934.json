@@ -1,0 +1,255 @@
+{
+  "appInfo" : {
+    "build" : "222.4167.29",
+    "buildDate" : "2022-09-13T12:36:50.828Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2022-11-04T17:13:02.9349236Z",
+    "os" : "Windows 11 10.0",
+    "runtime" : "JetBrains s.r.o. 17.0.4 17.0.4+7-b469.53"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 1860173824,
+    "numberOfProcessors" : 16,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "README.md",
+    "times" : {
+      "indexingReason" : "On project open",
+      "scanningType" : "FULL_ON_PROJECT_OPEN",
+      "totalUpdatingTime" : 6315060400,
+      "indexingTime" : 376929100,
+      "contentLoadingVisibleTime" : 9141591,
+      "creatingIteratorsTime" : 73572800,
+      "scanFilesTime" : 5522480000,
+      "pushPropertiesTime" : 1507300,
+      "indexExtensionsTime" : 0,
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 307079944,
+      "updatingStart" : "2022-11-04T17:12:56.6146857Z",
+      "updatingEnd" : "2022-11-04T17:13:02.9266076Z",
+      "totalSuspendedTime" : 0,
+      "wasInterrupted" : false
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 5,
+      "numberOfScannedFiles" : 87232,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 157,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringIndexingStage" : 0,
+      "numberOfFilesIndexedWithLoadingContent" : 132
+    },
+    "totalStatsPerFileType" : [ {
+      "fileType" : "UNKNOWN",
+      "partOfTotalProcessingTime" : {
+        "part" : 1127989200,
+        "total" : 1437031900
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 20185800,
+        "total" : 35396400
+      },
+      "totalNumberOfFiles" : 41,
+      "totalFilesSize" : 2285753,
+      "indexingSpeed" : {
+        "totalBytes" : 2285753,
+        "totalTime" : 1127989200
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'valentin' (valentin)",
+        "numberOfFiles" : 41,
+        "totalFilesSize" : 2285753,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 1127989200,
+          "total" : 1127989200
+        }
+      } ]
+    }, {
+      "fileType" : "Markdown",
+      "partOfTotalProcessingTime" : {
+        "part" : 234469300,
+        "total" : 1437031900
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 40200,
+        "total" : 35396400
+      },
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : 593,
+      "indexingSpeed" : {
+        "totalBytes" : 593,
+        "totalTime" : 234469300
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'valentin' (valentin)",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : 593,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 234469300,
+          "total" : 234469300
+        }
+      } ]
+    }, {
+      "fileType" : "JAVA",
+      "partOfTotalProcessingTime" : {
+        "part" : 74573400,
+        "total" : 1437031900
+      },
+      "partOfTotalContentLoadingTime" : {
+        "part" : 15170400,
+        "total" : 35396400
+      },
+      "totalNumberOfFiles" : 90,
+      "totalFilesSize" : 85473,
+      "indexingSpeed" : {
+        "totalBytes" : 85473,
+        "totalTime" : 74573400
+      },
+      "biggestContributors" : [ {
+        "providerName" : "Module 'valentin' (valentin)",
+        "numberOfFiles" : 90,
+        "totalFilesSize" : 85473,
+        "partOfTotalProcessingTimeOfThisFileType" : {
+          "part" : 74573400,
+          "total" : 74573400
+        }
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "Stubs",
+      "partOfTotalIndexingTime" : {
+        "part" : 17489000,
+        "total" : 22751500
+      },
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 593,
+      "indexingSpeed" : {
+        "totalBytes" : 593,
+        "totalTime" : 17489000
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "IdIndex",
+      "partOfTotalIndexingTime" : {
+        "part" : 4641200,
+        "total" : 22751500
+      },
+      "totalNumberOfFiles" : 16,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 1657118,
+      "indexingSpeed" : {
+        "totalBytes" : 1657118,
+        "totalTime" : 4641200
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    }, {
+      "indexId" : "Trigram.Index",
+      "partOfTotalIndexingTime" : {
+        "part" : 621300,
+        "total" : 22751500
+      },
+      "totalNumberOfFiles" : 2,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : 29709,
+      "indexingSpeed" : {
+        "totalBytes" : 29709,
+        "totalTime" : 621300
+      },
+      "snapshotInputMappingStats" : {
+        "totalRequests" : 0,
+        "totalMisses" : 0,
+        "totalHits" : 0
+      }
+    } ],
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'valentin' (valentin)",
+      "numberOfScannedFiles" : 87003,
+      "numberOfSkippedFiles" : 1,
+      "numberOfFilesForIndexing" : 157,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 4030884900,
+      "scanningTime" : 4544077600,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 77983600,
+      "timeIndexingWithoutContent" : 1933600,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@42344f22' (non-project)",
+      "numberOfScannedFiles" : 229,
+      "numberOfSkippedFiles" : 4,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 580717000,
+      "scanningTime" : 599648200,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 547200,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'com.intellij.javaee.ExternalResourcesRootsProvider@42344f22' (project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Indexable set contributor 'Scratches & Consoles' (non-project)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "scanningTime" : 0,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContent" : 0,
+      "roots" : [ ]
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'valentin' (valentin)",
+      "totalNumberOfIndexedFiles" : 132,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 0,
+      "totalIndexingVisibleTime" : 371132600,
+      "contentLoadingVisibleTime" : 9141591,
+      "numberOfTooLargeForIndexingFiles" : 0,
+      "slowIndexedFiles" : [ ],
+      "filesFullyIndexedByExtensions" : [ ],
+      "isAppliedAllValuesSeparately" : true,
+      "separateApplyingIndexesVisibleTime" : 307079944
+    } ],
+    "visibleTimeToAllThreadTimeRatio" : 0.25826329951339283
+  }
+}

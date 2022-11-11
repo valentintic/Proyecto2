@@ -1,0 +1,78 @@
+
+	table , th ,td { 
+	border: 1px solid black;
+  	
+	text-align:center;
+	margin: auto;
+	}
+
+	th {
+	background-color: rgb(127, 178, 255);
+	}
+
+	td:hover {
+	background-color: rgb(230, 74, 165);	
+
+	}
+
+	body {
+	background-color: rgb(66, 132, 184);	
+	}
+
+	.escudo{
+		width: 25%;
+		height: 25%;
+	}
+	.encabezado {
+		background-color:cornflowerblue;
+		color: rgb(168, 218, 21);
+		text-align: center;
+		margin: auto;
+		width: 25%;
+        height: 25%;
+        }
+	.titulo {
+		text-align: center;
+		margin: auto;
+		width: 20%;
+		height: auto;
+	}
+	#equipo1 {
+		align-items: center;
+		margin: auto;
+		height: auto;
+		width: fit-content;
+	}
+	#equipo2 {
+		align-items: center;
+		margin: auto;
+		height: auto;
+		width: fit-content;
+	}
+	#equipo3 {
+		align-items: center;
+		margin: auto;
+		height: auto;
+		width: fit-content;
+	}
+	#equipo4 {
+		align-items: center;
+		margin: auto;
+		height: auto;
+		width: fit-content;
+	}
+	#equipo5 {
+		align-items: center;
+		margin: auto;
+		height: auto;
+		width: fit-content;
+	}
+	.titulo {
+		margin: auto;
+		text-align:center;
+		height: 25%;
+		margin: 25%;
+	}
+#boton {
+	align-items: center;
+}
